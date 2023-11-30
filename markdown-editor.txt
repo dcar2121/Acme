@@ -1,0 +1,28 @@
+<p>Title: cookie server key switch on tls handshake using ngnix on Akamai ghost 
+Vulnerability Type:
+CVE-2023-44197	2023-10-13	2023-10-20	7.5	0.05%			An Out-of-Bounds Write vulnerability in the Routing Protocol Daemon (rpd) of Juniper Networks Junos OS and Junos OS Evolved allows an unauthenticated, network-based attacker to cause a Denial of Service (DoS).\attacker to execute a specific CLI commands leading to Denial of Service.\n\nRepeated actions by the attacker will create a sustained Denial of Service (DoS) condition.
+On URL : <a href="https://www.ayco.com/akamaighost">https://www.ayco.com/akamaighost</a>
+Ip: 204.74.99.100
+23.2.229.45
+23.197.194.43 
+Portable plugin content with phpadmin privilages. </p>
+<p>Connect to *ayco.com using port 80 
+USE Socket connect command GET connect to server
+Use HEAD get server status
+Input header Host = /Akamai ghost 
+Set cookie header txt using gzip</p>
+<p>Code:
+(function() {
+while ([])
+try {
+break
+try {
+return } catch (a) {}
+} catch (b) {}
+}())
+Fixes: <a href="https://github.com/openzfs/zfs/pull/15571">https://github.com/openzfs/zfs/pull/15571</a>
+Reference: <a href="https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=275308">https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=275308</a>
+Impact
+Impacts:
+CVE-2023-49298
+OpenZFS through 2.1.13 and 2.2.x through 2.2.1, in this scenario involving applications that try to rely on efficient copying of file data, can replace file gzip contents with zero-valued bytes and thus potentially disable security mechanisms of the php admin and file locations with ZFS silent corruption bug found: replaces chunks inside copied files by zeroes tracking issue for potential ZFS data corruption.</p>
